@@ -1,0 +1,9 @@
+Package: com.gilshahar7.accessibilityshortcutlistener
+Name: AccessibilityShortcutListener
+Depends: mobilesubstrate, libactivator
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Activator listener to simulate the triple click accessibility shortcut.
+Maintainer: gilshahar7 <gilshahardex99@gmail.com>
+Author: gilshahar7 <gilshahardex99@gmail.com>
+Section: Tweaks
